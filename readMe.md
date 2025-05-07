@@ -30,4 +30,9 @@ A simple web-based music player built using vanilla JavaScript, HTML, and CSS.
 
 ---
 
+## 🌐 Live Preview
+Check out the live version of the music player on [Netlify](https://scintillating-sherbet-2edf9b.netlify.app/).
+
+---
+
 Made with ❤️ for personal music enjoyment.
